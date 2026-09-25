@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.pqzlr.cn/sitemap.xml
